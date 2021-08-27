@@ -1,5 +1,3 @@
-package c_projects.java;
-
 public class CatalnNumber {
     int catalan(int n)
     {
